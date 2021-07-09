@@ -2,7 +2,7 @@
 # Do not use this fore any commercial thing
 # If you abuse thais bot we wil kick you from bot 
 # Do not edit (Respect to the Devaoloper) 
-# All rights reserved ©Lasiya @lasiya99X t.me/lasiya99X
+# All rights reserved ©chescola @kasun99X t.me/kasun99X
 
 
 const Asena = require('../events');
@@ -49,5 +49,5 @@ Asena.addCommand({pattern: 'goodbye (.*)', fromMe: true, dontAddCommandList: tru
         return await message.client.sendMessage(message.jid,Lang.GOODBYE_SETTED,MessageType.text)
     }
 }));
-# Get more about devaoloper https://lasiya.ml
+# Get more about devaoloper https://chescola
 */
